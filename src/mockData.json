@@ -1,0 +1,203 @@
+{
+  "teamStats": [
+    {
+      "teamNumber": "16460",
+      "matchCount": 8,
+      "trustedMatchCount": 7,
+      "trusted": true,
+      "strategy": "specimen_dominant",
+      "avg": {
+        "autoLeave": 0.875,
+        "autoPark": 0.75,
+        "autoTips": 1.4,
+        "teleTips": 2.1,
+        "cellBalls": 3.2,
+        "flowerPollen": 1.8,
+        "flowerNectar": 1.2,
+        "endgamePark": 0.9,
+        "autoShotAccuracy": 0.61,
+        "teleShotAccuracy": 0.54
+      },
+      "std": {
+        "autoTips": 0.5, "teleTips": 0.7, "cellBalls": 1.1,
+        "flowerPollen": 0.6, "flowerNectar": 0.4
+      },
+      "min": {
+        "autoLeave": 0.5, "autoPark": 0.5, "autoTips": 0.5, "teleTips": 1.0,
+        "cellBalls": 1.0, "flowerPollen": 0.5, "flowerNectar": 0.0, "endgamePark": 0.5,
+        "autoShotAccuracy": 0.40, "teleShotAccuracy": 0.33
+      },
+      "max": {
+        "autoLeave": 1.0, "autoPark": 1.0, "autoTips": 2.0, "teleTips": 3.0,
+        "cellBalls": 5.0, "flowerPollen": 3.0, "flowerNectar": 2.0, "endgamePark": 1.0,
+        "autoShotAccuracy": 0.80, "teleShotAccuracy": 0.72
+      }
+    },
+    {
+      "teamNumber": "308",
+      "matchCount": 9,
+      "trustedMatchCount": 8,
+      "trusted": true,
+      "strategy": "sample_dominant",
+      "avg": {
+        "autoLeave": 1.0,
+        "autoPark": 0.5,
+        "autoTips": 0.3,
+        "teleTips": 0.5,
+        "cellBalls": 7.4,
+        "flowerPollen": 4.2,
+        "flowerNectar": 3.1,
+        "endgamePark": 1.0,
+        "autoShotAccuracy": 0.30,
+        "teleShotAccuracy": 0.28
+      },
+      "std": {
+        "autoTips": 0.3, "teleTips": 0.4, "cellBalls": 1.5,
+        "flowerPollen": 0.9, "flowerNectar": 0.7
+      },
+      "min": {
+        "autoLeave": 1.0, "autoPark": 0.0, "autoTips": 0.0, "teleTips": 0.0,
+        "cellBalls": 4.0, "flowerPollen": 2.0, "flowerNectar": 1.0, "endgamePark": 1.0,
+        "autoShotAccuracy": 0.10, "teleShotAccuracy": 0.10
+      },
+      "max": {
+        "autoLeave": 1.0, "autoPark": 1.0, "autoTips": 1.0, "teleTips": 1.0,
+        "cellBalls": 10.0, "flowerPollen": 6.0, "flowerNectar": 5.0, "endgamePark": 1.0,
+        "autoShotAccuracy": 0.50, "teleShotAccuracy": 0.45
+      }
+    },
+    {
+      "teamNumber": "9999",
+      "matchCount": 6,
+      "trustedMatchCount": 5,
+      "trusted": true,
+      "strategy": "balanced",
+      "avg": {
+        "autoLeave": 0.67,
+        "autoPark": 0.33,
+        "autoTips": 0.8,
+        "teleTips": 1.2,
+        "cellBalls": 4.5,
+        "flowerPollen": 2.3,
+        "flowerNectar": 1.9,
+        "endgamePark": 0.67,
+        "autoShotAccuracy": 0.48,
+        "teleShotAccuracy": 0.44
+      },
+      "std": {
+        "autoTips": 0.4, "teleTips": 0.6, "cellBalls": 1.2,
+        "flowerPollen": 0.8, "flowerNectar": 0.5
+      },
+      "min": {
+        "autoLeave": 0.0, "autoPark": 0.0, "autoTips": 0.0, "teleTips": 0.5,
+        "cellBalls": 2.0, "flowerPollen": 1.0, "flowerNectar": 0.5, "endgamePark": 0.0,
+        "autoShotAccuracy": 0.25, "teleShotAccuracy": 0.20
+      },
+      "max": {
+        "autoLeave": 1.0, "autoPark": 1.0, "autoTips": 1.5, "teleTips": 2.0,
+        "cellBalls": 7.0, "flowerPollen": 4.0, "flowerNectar": 3.0, "endgamePark": 1.0,
+        "autoShotAccuracy": 0.70, "teleShotAccuracy": 0.65
+      }
+    },
+    {
+      "teamNumber": "12345",
+      "matchCount": 4,
+      "trustedMatchCount": 3,
+      "trusted": false,
+      "strategy": "unknown",
+      "avg": {
+        "autoLeave": 0.5,
+        "autoPark": 0.25,
+        "autoTips": 0.5,
+        "teleTips": 0.75,
+        "cellBalls": 2.0,
+        "flowerPollen": 1.0,
+        "flowerNectar": 0.5,
+        "endgamePark": 0.5,
+        "autoShotAccuracy": 0.35,
+        "teleShotAccuracy": 0.31
+      },
+      "std": {
+        "autoTips": 0.5, "teleTips": 0.5, "cellBalls": 1.0,
+        "flowerPollen": 0.5, "flowerNectar": 0.5
+      },
+      "min": {
+        "autoLeave": 0.0, "autoPark": 0.0, "autoTips": 0.0, "teleTips": 0.0,
+        "cellBalls": 0.0, "flowerPollen": 0.0, "flowerNectar": 0.0, "endgamePark": 0.0,
+        "autoShotAccuracy": 0.10, "teleShotAccuracy": 0.10
+      },
+      "max": {
+        "autoLeave": 1.0, "autoPark": 1.0, "autoTips": 1.0, "teleTips": 1.5,
+        "cellBalls": 4.0, "flowerPollen": 2.0, "flowerNectar": 1.5, "endgamePark": 1.0,
+        "autoShotAccuracy": 0.55, "teleShotAccuracy": 0.50
+      }
+    }
+  ],
+
+  "simulationResults": [
+    {
+      "matchId": "test_event_Q1",
+      "ourTeam": "16460",
+      "oppTeam": "308",
+      "ourWinProb": 0.58,
+      "oppWinProb": 0.42,
+      "our":  { "worst": 52, "average": 89, "best": 128 },
+      "opp":  { "worst": 44, "average": 81, "best": 119 },
+      "officialResult": { "ourScore": 95, "oppScore": 78, "predictedCorrectly": true }
+    },
+    {
+      "matchId": "test_event_Q2",
+      "ourTeam": "16460",
+      "oppTeam": "9999",
+      "ourWinProb": 0.71,
+      "oppWinProb": 0.29,
+      "our":  { "worst": 55, "average": 91, "best": 130 },
+      "opp":  { "worst": 38, "average": 68, "best": 102 },
+      "officialResult": { "ourScore": 103, "oppScore": 72, "predictedCorrectly": true }
+    },
+    {
+      "matchId": "test_event_Q3",
+      "ourTeam": "16460",
+      "oppTeam": "12345",
+      "ourWinProb": 0.84,
+      "oppWinProb": 0.16,
+      "our":  { "worst": 58, "average": 93, "best": 134 },
+      "opp":  { "worst": 18, "average": 42, "best": 71 },
+      "officialResult": null
+    },
+    {
+      "matchId": "test_event_Q4",
+      "ourTeam": "308",
+      "oppTeam": "9999",
+      "ourWinProb": 0.47,
+      "oppWinProb": 0.53,
+      "our":  { "worst": 40, "average": 76, "best": 112 },
+      "opp":  { "worst": 35, "average": 71, "best": 108 },
+      "officialResult": { "ourScore": 68, "oppScore": 80, "predictedCorrectly": false }
+    }
+  ],
+
+  "predictionAccuracy": {
+    "totalPredicted": 3,
+    "totalCorrect": 2,
+    "accuracyPct": 66.7
+  },
+
+  "rawEntries": [
+    { "teamNumber": "16460", "matchNumber": "1", "autoShotAccuracy": 0.50, "teleShotAccuracy": 0.45 },
+    { "teamNumber": "16460", "matchNumber": "2", "autoShotAccuracy": 0.55, "teleShotAccuracy": 0.48 },
+    { "teamNumber": "16460", "matchNumber": "3", "autoShotAccuracy": 0.60, "teleShotAccuracy": 0.52 },
+    { "teamNumber": "16460", "matchNumber": "4", "autoShotAccuracy": 0.58, "teleShotAccuracy": 0.50 },
+    { "teamNumber": "16460", "matchNumber": "5", "autoShotAccuracy": 0.65, "teleShotAccuracy": 0.56 },
+    { "teamNumber": "16460", "matchNumber": "6", "autoShotAccuracy": 0.62, "teleShotAccuracy": 0.54 },
+    { "teamNumber": "308",   "matchNumber": "1", "autoShotAccuracy": 0.22, "teleShotAccuracy": 0.20 },
+    { "teamNumber": "308",   "matchNumber": "2", "autoShotAccuracy": 0.28, "teleShotAccuracy": 0.25 },
+    { "teamNumber": "308",   "matchNumber": "3", "autoShotAccuracy": 0.31, "teleShotAccuracy": 0.29 },
+    { "teamNumber": "308",   "matchNumber": "4", "autoShotAccuracy": 0.30, "teleShotAccuracy": 0.28 },
+    { "teamNumber": "9999",  "matchNumber": "1", "autoShotAccuracy": 0.40, "teleShotAccuracy": 0.38 },
+    { "teamNumber": "9999",  "matchNumber": "2", "autoShotAccuracy": 0.45, "teleShotAccuracy": 0.42 },
+    { "teamNumber": "9999",  "matchNumber": "3", "autoShotAccuracy": 0.50, "teleShotAccuracy": 0.46 },
+    { "teamNumber": "12345", "matchNumber": "1", "autoShotAccuracy": 0.30, "teleShotAccuracy": 0.28 },
+    { "teamNumber": "12345", "matchNumber": "2", "autoShotAccuracy": 0.38, "teleShotAccuracy": 0.33 }
+  ]
+}
